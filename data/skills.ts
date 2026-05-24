@@ -1,0 +1,18 @@
+export const skills = [
+  'Laravel',
+  'PHP',
+  'MySQL',
+  'JavaScript',
+  'HTML',
+  'CSS',
+  'Bootstrap',
+  'Flutter',
+  'Firebase',
+  'Supabase',
+  'Git',
+  'GitHub',
+  'Figma',
+  'REST API',
+  'UI/UX',
+  'VS Code',
+];
